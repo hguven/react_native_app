@@ -1,4 +1,4 @@
-<H1>Dating App on React Native</H1>
+<H1> App on React Native</H1>
 <H2>Function</h2>
 <ul>
   <li><H3>User search by location, filters</h3></li>
